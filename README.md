@@ -10,8 +10,6 @@
 
 **URL du Repository GitHub :** https://github.com/DawidSacVinci/IPL-social
 
-> **Note :** Les collaborateurs `sewelseb` et `olivier.choquet@vinci.be` ont été invités sur le dépôt.
-
 ## Description du Projet
 
 Ce projet met en place un environnement d'Intégration Continue (CI) pour le module "IPL social".
