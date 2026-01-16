@@ -1,7 +1,4 @@
 # IPL social - DevOps Exam
-
-## Informations Étudiant
-
 - **Nom :** Sac
 - **Prénom :** Dawod
 - **Email :** dawid.sac@student.vinci.be
