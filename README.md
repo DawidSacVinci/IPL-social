@@ -25,7 +25,7 @@ Pour installer les dépendances du projet :
 npm install
 ```
 
-Pour lancer l'exécution des tests (commande requise) :
+Pour lancer l'exécution des tests :
 
 ```bash
 npm test
